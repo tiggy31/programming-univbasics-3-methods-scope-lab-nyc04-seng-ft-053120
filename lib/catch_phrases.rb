@@ -17,7 +17,7 @@ def toadstool
 end
 
 def link
-  new_message = "It's Dangerous To Go Alone! Take this."
+  new_message = 'It's Dangerous To Go Alone! Take this.'
   puts new_message
 end
 #method is trying to put out a variable called phrase
