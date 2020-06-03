@@ -21,3 +21,4 @@ def link
 end
 #method is trying to put out a variable called phrase
 
+all_phrases
